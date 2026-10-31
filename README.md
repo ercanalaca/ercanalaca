@@ -1,6 +1,16 @@
-# Hi, I'm Ercan ALACA 👋
+<div align="center">
 
-### IT Manager | Digital Transformation | Enterprise Software Development
+# Ercan ALACA
+
+### IT Manager | Digital Transformation Leader
+
+**Enterprise Software • ERP Solutions • Data Analytics • AI Innovation**
+
+Building secure, scalable and intelligent business solutions.
+
+</div>
+
+---
 
 IT professional with over 10 years of experience in enterprise IT management, infrastructure, ERP systems, and business process optimization.
 
@@ -42,3 +52,7 @@ Developing enterprise applications and modern reporting platforms, with a focus 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercanalaca&layout=compact&theme=github_dark&hide_border=true)
 
+
+## 📈 Development Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ercanalaca&theme=github-compact&hide_border=true)
