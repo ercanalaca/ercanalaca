@@ -1,13 +1,13 @@
 
 <div align="center">
 
-# Ercan ALACA
+# 👋 Hi, I'm Ercan ALACA
 
 ### IT Manager | Digital Transformation Leader
 
-**Enterprise Software • ERP Solutions • Data Analytics • AI Innovation**
+**Enterprise IT Infrastructure • Cybersecurity • ERP Solutions • Software Development • AI Innovation**
 
-Building secure, scalable and intelligent business solutions.
+Bridging business and technology through secure, scalable and intelligent solutions.
 
 </div>
 
@@ -15,30 +15,89 @@ Building secure, scalable and intelligent business solutions.
 
 ## 👨‍💻 About Me
 
-IT professional with over **10 years of experience** in enterprise IT management, infrastructure, ERP systems, and business process optimization.
+I am an **IT Manager with over 10 years of professional experience** in enterprise IT operations, infrastructure management, cybersecurity, ERP systems, and digital transformation.
 
-Currently working as an **IT Manager**, combining technical expertise with strategic leadership to improve enterprise technology operations and drive digital transformation initiatives.
+My career has evolved from hands-on IT operations and systems administration into technology leadership, enterprise architecture, and software development.
 
-I focus on integrating enterprise technology, modern software development, and artificial intelligence to create secure, scalable, and efficient business solutions.
+I combine **IT management, infrastructure expertise, and modern software engineering** to design and deliver solutions that improve business efficiency, security, and operational continuity.
 
-My professional interests include enterprise architecture, ERP modernization, data-driven decision-making, business process automation, and AI-assisted software development.
+My work spans enterprise networks, virtualization, backup and disaster recovery, ERP integrations, business intelligence, and AI-assisted application development.
+
+I believe successful technology leadership requires both **deep technical understanding and a strong business perspective**.
 
 ---
 
 ## 🚀 Areas of Expertise
 
-- **IT Leadership & Strategy:** Enterprise IT operations, infrastructure management, technology planning, and operational continuity.
-- **Enterprise Software & ERP:** ERP integrations, business applications, workflow automation, and process optimization.
-- **Software Development:** Web-based platforms, REST APIs, database-driven applications, and system integrations.
-- **Data & Business Intelligence:** SQL Server, reporting platforms, data analysis, and management dashboards.
-- **Infrastructure & Security:** Windows Server, Linux, virtualization, networking, cybersecurity, and system administration.
-- **AI & Innovation:** AI-assisted development, intelligent automation, and practical AI integration into business processes.
+### 🏢 IT Management & Technology Leadership
+
+- Enterprise IT operations and infrastructure management
+- IT strategy, technology planning, and digital transformation
+- IT asset management and operational continuity
+- Enterprise application lifecycle management
+- Technology evaluation and process optimization
+- Cross-functional collaboration and technical project management
+
+### 🛡️ Network & Cybersecurity
+
+- Advanced hands-on experience with **Fortinet FortiGate and Sophos Firewall**
+- Enterprise firewall administration and security policy management
+- Network segmentation, VLANs, routing, and VPN technologies
+- Site-to-site IPsec VPN and secure remote access
+- Network traffic analysis, monitoring, and troubleshooting
+- Enterprise network security and access control
+
+### 🖥️ Virtualization, Backup & Disaster Recovery
+
+- Hands-on expertise in **VMware vSphere / ESXi**
+- Virtual machine administration and infrastructure optimization
+- **Veeam Backup & Replication** administration
+- Backup strategies, recovery procedures, and data protection
+- Physical and virtual server infrastructure management
+- Business continuity and disaster recovery planning
+
+### 🔗 Enterprise Software & ERP Integration
+
+- ERP system administration and integration
+- REST API development and system connectivity
+- Business process automation and workflow digitalization
+- Database-driven enterprise applications
+- Inventory, finance, operations, and reporting solutions
+
+### 📊 Data Analytics & Business Intelligence
+
+- Microsoft SQL Server administration and development
+- SQL queries, stored procedures, functions, and data optimization
+- Power BI reporting and dashboard development
+- Enterprise reporting platforms and operational analytics
+- Data integration and management reporting
+
+### 🤖 AI & Modern Software Development
+
+- AI-assisted software development
+- Modern web application architecture
+- Python, React, Node.js, and API-based applications
+- AI integration into enterprise workflows
+- Intelligent automation and process improvement
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Platforms
 
-### Software Development & Databases
+### 🛡️ Cybersecurity & Network Infrastructure
+
+![Fortinet](https://img.shields.io/badge/Fortinet_FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos_Firewall-0067B9?style=for-the-badge&logo=sophos&logoColor=white)
+
+### 🖥️ Virtualization, Backup & Systems
+
+![VMware](https://img.shields.io/badge/VMware_vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam_Backup-00B336?style=for-the-badge&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 💻 Software Development & Databases
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
@@ -47,17 +106,11 @@ My professional interests include enterprise architecture, ERP modernization, da
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Infrastructure & Platforms
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Data, Analytics & Automation
+### 📊 Business Intelligence & Collaboration
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Assisted_Development-6B46C1?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
@@ -112,52 +165,53 @@ Design and implementation of solutions connecting enterprise systems, databases,
 
 ## 🧭 Professional Journey
 
-### IT Management & Technology Leadership
+### From IT Operations to Technology Leadership
 
-Over a decade of experience supporting and managing enterprise technology environments, with progressive responsibilities in IT operations and leadership.
+My professional journey combines hands-on technical experience, enterprise IT management, and continuous innovation.
 
-My professional journey has evolved across three interconnected areas:
+**01 — IT Infrastructure & Systems Administration**
 
-**01 — Enterprise IT Operations**
+Developed a strong technical foundation in enterprise networking, server administration, cybersecurity, virtualization, backup systems, and infrastructure troubleshooting.
 
-Building expertise in infrastructure management, networking, enterprise systems, troubleshooting, and business continuity.
+**02 — IT Management & Digital Transformation**
 
-**02 — IT Leadership & Digital Transformation**
+Progressed into IT leadership, managing enterprise technology operations, infrastructure planning, business applications, and digital transformation initiatives.
 
-Taking responsibility for IT operations, technology planning, enterprise applications, and the digitalization of business processes.
+**03 — Enterprise Software & Business Intelligence**
 
-**03 — Enterprise Software & AI Innovation**
+Expanded into ERP integrations, enterprise reporting platforms, workflow automation, and web-based business applications.
 
-Expanding into modern application development, ERP-integrated platforms, data analytics, and AI-assisted software engineering.
+**04 — AI & Next-Generation Enterprise Solutions**
 
-My approach combines operational experience with continuous learning and a strong focus on business value.
+Currently exploring AI-assisted software engineering, intelligent automation, and modern enterprise application architectures.
 
 ---
 
 ## 📚 Current Learning
 
-I believe technology leadership requires continuous learning, experimentation, and adaptation.
+I believe continuous learning is essential for effective technology leadership.
 
-Currently expanding my knowledge in:
+My current learning and development areas include:
 
-- **Management Information Systems:** Connecting business management with information technologies.
-- **Artificial Intelligence & Machine Learning:** Exploring practical AI applications and intelligent automation.
-- **Modern Software Engineering:** Improving application architecture, development practices, and system integration.
-- **Enterprise Architecture:** Designing secure, maintainable, and scalable business systems.
-- **Technology Leadership:** Strengthening strategic decision-making and digital transformation capabilities.
+- **Management Information Systems:** Strengthening the connection between business management and information technology.
+- **Artificial Intelligence & Machine Learning:** Exploring intelligent automation and practical AI applications.
+- **Modern Software Engineering:** Improving software architecture, development practices, and system integration.
+- **Enterprise Architecture:** Designing secure, scalable, and maintainable technology environments.
+- **Technology Leadership:** Developing strategic decision-making and digital transformation capabilities.
 
 ---
 
 ## 🎯 Current Focus
 
-Developing enterprise applications and modern reporting platforms, with a focus on practical AI integration and digital transformation.
+My current focus is on connecting enterprise infrastructure, business applications, and modern software technologies.
 
-My goal is to bridge the gap between business requirements and technology by delivering solutions that are:
+I aim to develop and manage technology solutions that are:
 
-- Secure and reliable
-- Scalable and maintainable
-- Data-driven and efficient
-- Aligned with business objectives
+- **Secure:** Built with security and data protection in mind
+- **Reliable:** Designed for operational continuity
+- **Scalable:** Ready to support organizational growth
+- **Efficient:** Focused on automation and measurable business value
+- **Intelligent:** Leveraging data analytics and practical AI capabilities
 
 ---
 
@@ -165,8 +219,8 @@ My goal is to bridge the gap between business requirements and technology by del
 
 ### Technology should simplify business, not complicate it.
 
-*Transforming complex business challenges into reliable and scalable technology solutions.*
+*Transforming complex business challenges into reliable, secure and scalable technology solutions.*
 
-**IT Leadership • Enterprise Solutions • Digital Transformation**
+**IT Leadership • Cybersecurity • Enterprise Solutions • Digital Transformation**
 
 </div>
