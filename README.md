@@ -35,3 +35,10 @@ Developing enterprise applications and modern reporting platforms, with a focus 
 ---
 
 *Transforming complex business challenges into reliable and scalable technology solutions.*
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ercanalaca&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercanalaca&layout=compact&theme=github_dark&hide_border=true)
+
